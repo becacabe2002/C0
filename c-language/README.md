@@ -1,0 +1,1 @@
+[Bài giảng Ngôn ngữ lập trình C](https://drive.google.com/drive/folders/1K8gS4KyiGHwVPG0p5Q0U9S73CBVlHLgf?usp=sharing)
